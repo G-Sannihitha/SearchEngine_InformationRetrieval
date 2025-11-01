@@ -1,6 +1,4 @@
-**INFORMATION RETRIEVAL (CS-429)**
-
-**PROJECT - Submitted by Sannihitha Gudimalla (A20560248)**
+**SearchEngine_InformationRetrieval**
 
 This project aims to develop a sophisticated search engine leveraging Python technologies. It includes components for web crawling, indexing, and query processing, providing users with a scalable, efficient, and user-friendly search solution capable of retrieving relevant information.
 
@@ -54,7 +52,3 @@ A comprehensive suite of unit tests covers functionalities of the web crawler, i
 
 **Source Code**
 The source code comprises modules and files for the web crawler, indexer, query processor, and unit tests.
-
-**Bibliography**
-References and resources used in the development process are listed in the project report.
-
